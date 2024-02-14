@@ -1,0 +1,30 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 100vw ;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.btn{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin: 10px 20px;
+  
+}
+.Nobtn{
+  background-color: red;
+  border-radius: 20px;
+  margin: 10px 10px;
+}
+.Yesbtn{
+  background-color: rgb(4, 185, 19);
+  border-radius: 20px;
+  margin: 0px 10px;
+}
+.text{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400px;
+}
+.ask{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
